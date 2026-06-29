@@ -132,14 +132,14 @@ Isi dokumen:
 
 ### Checklist
 
-* [ ] Project Name
-* [ ] Tagline
-* [ ] Description
-* [ ] Mission
-* [ ] Vision
-* [ ] Target Users
-* [ ] Platforms
-* [ ] Core Values
+* [x ] Project Name
+* [x] Tagline
+* [x] Description
+* [x] Mission
+* [x] Vision
+* [x] Target Users
+* [x] Platforms
+* [x] Core Values
 
 ### Output
 
@@ -175,7 +175,7 @@ docs/
 
 ### Checklist
 
-* [ ] Semua folder dokumentasi dibuat
+* [x] Semua folder dokumentasi dibuat
 
 ### Output
 
@@ -210,8 +210,8 @@ Isi minimal:
 
 ### Checklist
 
-* [ ] development-rules.md dibuat
-* [ ] Aturan dasar ditulis
+* [x] development-rules.md dibuat
+* [x] Aturan dasar ditulis
 
 ### Output
 
